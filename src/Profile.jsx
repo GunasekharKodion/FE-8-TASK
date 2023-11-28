@@ -73,7 +73,7 @@ return (
 
           <div className='flex flex-row w-full relative h-screen justify-evenly items-center'>
 
-            <div><p className='text-8xl font-semibold  mb-4'>User<br></br> Profile pROFIC</p></div>
+            <div><p className='text-8xl font-semibold  mb-4'>User<br></br> Profile pROFIC sdfsgs</p></div>
 
             <div className='bg-white ring-0  ring-gray-950 shadow-[0_3px_10px_rgb(0,0,0,0.2)] rounded-lg m-5 p-6 flex flex-col justify-center items-center'>
 
