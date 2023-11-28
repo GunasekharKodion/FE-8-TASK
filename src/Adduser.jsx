@@ -330,7 +330,7 @@ const Adduser = () => {
           </div>
         </div>
         </div>
-        <Footer />
+        {/* <Footer /> */}
       </>
       )
 }

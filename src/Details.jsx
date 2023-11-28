@@ -484,7 +484,7 @@ const Details = () => {
           {/* </div> */}
         </div>
       </div>
-      <Footer />
+      {/* <Footer /> */}
     </>
   )
 }
