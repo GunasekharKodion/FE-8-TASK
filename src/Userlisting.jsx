@@ -333,7 +333,7 @@ const navig=useNavigate()
             </div>
           </div>)}
           </div>
-          <Footer/>
+          {/* <Footer/> */}
     </>
   )
 }

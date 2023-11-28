@@ -164,7 +164,7 @@ console.log("passf",passf)
           </div>
         </div>
       </div>
-      <Footer />
+      {/* <Footer /> */}
     </>
   )
 }

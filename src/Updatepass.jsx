@@ -206,7 +206,7 @@ const Updatepass = () => {
                     </div>
                 </div>
             </div>
-            <Footer/>
+            {/* <Footer/> */}
         </>
     )
 }
